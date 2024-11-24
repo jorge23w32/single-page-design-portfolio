@@ -1,0 +1,57 @@
+<svg width="95" height="225" viewBox="0 0 95 225" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 5" filter="url(#filter0_d_0_988)">
+<rect id="Rectangle Copy 8" x="4.33923" y="173.318" width="86.6589" height="86.6589" transform="rotate(-90 4.33923 173.318)" fill="#EB7565"/>
+<circle id="Oval" cx="26.004" cy="194.983" r="19.6647" transform="rotate(-90 26.004 194.983)" stroke="#030303" stroke-width="4"/>
+<circle id="Oval_2" cx="47.6687" cy="129.988" r="19.6647" transform="rotate(-90 47.6687 129.988)" stroke="#FFF7F0" stroke-width="4"/>
+<g id="Group 7">
+<g id="Group 3">
+<rect id="Rectangle Copy 5" x="47.6687" y="43.3295" width="5.41618" height="5.41618" transform="rotate(-90 47.6687 43.3295)" fill="#030303"/>
+<rect id="Rectangle Copy 6" x="47.6687" y="24.3728" width="5.41618" height="5.41618" transform="rotate(-90 47.6687 24.3728)" fill="#030303"/>
+<rect id="Rectangle Copy 7" x="47.6687" y="5.4162" width="5.41618" height="5.41618" transform="rotate(-90 47.6687 5.4162)" fill="#030303"/>
+</g>
+<g id="Group 3 Copy">
+<rect id="Rectangle Copy 5_2" x="80.1658" y="43.3295" width="5.41618" height="5.41618" transform="rotate(-90 80.1658 43.3295)" fill="#030303"/>
+<rect id="Rectangle Copy 6_2" x="80.1658" y="24.3728" width="5.41618" height="5.41618" transform="rotate(-90 80.1658 24.3728)" fill="#030303"/>
+<rect id="Rectangle Copy 7_2" x="80.1658" y="5.4162" width="5.41618" height="5.41618" transform="rotate(-90 80.1658 5.4162)" fill="#030303"/>
+</g>
+<g id="Group 3 Copy 2">
+<rect id="Rectangle Copy 5_3" x="85.582" y="43.3295" width="5.41618" height="5.41618" transform="rotate(-90 85.582 43.3295)" fill="#030303"/>
+<rect id="Rectangle Copy 6_3" x="85.582" y="24.3728" width="5.41618" height="5.41618" transform="rotate(-90 85.582 24.3728)" fill="#030303"/>
+<rect id="Rectangle Copy 7_3" x="85.582" y="5.4162" width="5.41618" height="5.41618" transform="rotate(-90 85.582 5.4162)" fill="#030303"/>
+</g>
+</g>
+<g id="Group 7 Copy">
+<g id="Group 3_2">
+<rect id="Rectangle Copy 5_4" x="4.33923" y="43.3295" width="5.41618" height="5.41618" transform="rotate(-90 4.33923 43.3295)" fill="#030303"/>
+<rect id="Rectangle Copy 6_4" x="4.33923" y="24.3728" width="5.41618" height="5.41618" transform="rotate(-90 4.33923 24.3728)" fill="#030303"/>
+<rect id="Rectangle Copy 7_4" x="4.33923" y="5.4162" width="5.41618" height="5.41618" transform="rotate(-90 4.33923 5.4162)" fill="#030303"/>
+</g>
+<g id="Group 3 Copy_2">
+<rect id="Rectangle Copy 5_5" x="9.75542" y="43.3295" width="5.41618" height="5.41618" transform="rotate(-90 9.75542 43.3295)" fill="#030303"/>
+<rect id="Rectangle Copy 6_5" x="9.7554" y="24.3728" width="5.41618" height="5.41618" transform="rotate(-90 9.7554 24.3728)" fill="#030303"/>
+<rect id="Rectangle Copy 7_5" x="9.7554" y="5.4162" width="5.41618" height="5.41618" transform="rotate(-90 9.7554 5.4162)" fill="#030303"/>
+</g>
+<g id="Group 3 Copy 2_2">
+<rect id="Rectangle Copy 5_6" x="42.2525" y="43.3295" width="5.41618" height="5.41618" transform="rotate(-90 42.2525 43.3295)" fill="#030303"/>
+<rect id="Rectangle Copy 6_6" x="42.2525" y="24.3728" width="5.41618" height="5.41618" transform="rotate(-90 42.2525 24.3728)" fill="#030303"/>
+<rect id="Rectangle Copy 7_6" x="42.2525" y="5.4162" width="5.41618" height="5.41618" transform="rotate(-90 42.2525 5.4162)" fill="#030303"/>
+</g>
+</g>
+<path id="Path" fill-rule="evenodd" clip-rule="evenodd" d="M47.6687 86.6589L90.9982 43.3295L47.6687 43.3295L47.6687 86.6589Z" fill="#FFF7F0"/>
+<path id="Path Copy" fill-rule="evenodd" clip-rule="evenodd" d="M47.6687 86.6589L90.9982 43.3295L47.6687 43.3295L47.6687 86.6589Z" fill="#552049"/>
+<path id="Path Copy 2" fill-rule="evenodd" clip-rule="evenodd" d="M90.9982 173.318L47.6687 216.647H90.9982V173.318Z" fill="#F39E9E"/>
+<path id="Path Copy_2" fill-rule="evenodd" clip-rule="evenodd" d="M47.6687 86.6589L4.33923 43.3295L47.6687 43.3295L47.6687 86.6589Z" fill="#FFF7F0"/>
+</g>
+<defs>
+<filter id="filter0_d_0_988" x="0.339233" y="0" width="94.659" height="224.647" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_988"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_988" result="shape"/>
+</filter>
+</defs>
+</svg>

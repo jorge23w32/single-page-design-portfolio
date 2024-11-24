@@ -1,0 +1,153 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap');
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+html,body{
+    font-family: "Plus Jakarta Sans", sans-serif;
+    background-color: #FFF7F0;
+    color: #7A746E;
+    width: 100%;
+    display: flex; 
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+nav, .info, .sections, .you-presentation{
+    margin: 0px 165px;
+}
+nav{
+    margin-top: 34px;
+    margin-bottom: 66px;
+    width: 1111px;
+    height: 64px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#logo img{
+    height: 64px;
+    width: 64px;
+    aspect-ratio: 1;
+}
+nav > #consultation{
+    text-decoration: none;
+    background-color: black;
+    color:#FFFFFF;
+    font-size: 16px;
+    font-weight: 30%;
+    padding: 14px 45px;
+    border-radius: 1000px;
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.3);
+}
+.info{
+    margin: 0px 344px;
+    width: 752px;
+    height: 150px;
+    text-align: center;
+    margin-bottom: 80px;
+}
+.info h1{
+    font-size: 56px;
+    color: black;
+    padding-bottom: 23px;
+}
+.info p{
+    font-size: 18px;
+    padding: 0px 35px;
+}
+
+.sections{
+    display: flex;
+    flex-direction: row;
+    gap: 24px;
+    width: 1110px;
+    height: 364px;
+    margin-bottom: 136px;
+}
+
+.graphic-design, .illustrations, .photography{
+    width: 354px;
+    height: 364px;
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    border-radius: 10px;
+    padding: 24px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: stretch;
+    position: relative;
+    
+}
+.graphic-design img{
+    align-self: flex-end;
+    width: 128px;
+    height: 192px;
+    margin-left: 0px;
+}
+.illustrations img{
+    align-self: flex-end;
+    height: 114.87px;
+    width: 229.75px;
+}
+.photography img{
+    align-self: flex-end;
+    width: 86.66px;
+    height: 216.65px;
+}
+.graphic-design{
+    background-color: #755CDE;
+}
+.illustrations{
+    background-color: #EB7565;
+}
+.photography{
+    background-color: #61C4B7;
+}
+
+.you-presentation{
+    display: flex;
+    width: 1110px;
+    height: 445px;
+    gap: 125px;
+    align-items: center;
+    margin-bottom: 88px;
+}
+.you-presentation img{
+    width: 445px;
+    height: 445px;
+}
+.amy-information{
+    display: flex;
+    flex-direction: column;
+    gap: 34px;
+    width: 540px;
+    height: 306px;
+}
+
+.presentation{
+    font-size: 40px;
+    color: black;
+    font-weight: bold;
+    text-align: left;    
+}
+.about-me{
+    font-size: 18px;
+    text-align: left;
+}
+
+.amy-information a{
+    text-decoration: none;
+    background-color: #EB7565;
+    width: 228px;
+    height: 56px;
+    padding: 14px 45px;
+    color: white;
+    font-size: 16px;
+    font-weight: 30%;
+    line-height: 28px;
+    border-radius: 1000px;
+}
